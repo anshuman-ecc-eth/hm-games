@@ -15,4 +15,4 @@ This repository contains modified browser games built with [crisp-game-lib](http
 
 ## License
 
-BSD 3-Clause License - see [LICENSE](LICENSE) file for details.
+BSD Zero Clause License - see [LICENSE](LICENSE) file for details.
