@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "111 one-button games in 2021",
   "scripts": {
-    "generate": "node ./src/generator.js"
+    "generate": "node ./src/generator.js",
+    "serve": "npx http-server -p 8080 -c-1"
   },
   "author": "abagames",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@chenglou/pretext": "^0.0.5"
+  }
 }
