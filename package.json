@@ -7,7 +7,7 @@
     "serve": "npx http-server -p 8080 -c-1"
   },
   "author": "abagames",
-  "license": "MIT",
+  "license": "BSD-0-Clause",
   "dependencies": {
     "@chenglou/pretext": "^0.0.5"
   }
